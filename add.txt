@@ -3,3 +3,4 @@ add
 new-line
 edited in local
 third
+remote
